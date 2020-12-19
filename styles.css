@@ -49,7 +49,7 @@ footer {
 
 @media only screen and (max-width: 425px){
 
-  container{
+  .container{
     height: 90vh;
   }
 }
